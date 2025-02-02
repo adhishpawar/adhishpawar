@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact:- **I am The Academic Topper**
 
+- ⚡ Working With **Machine Learning Algo and GPU Powered Distributed System**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adhish_pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhish_pawar" height="30" width="40" /></a>
