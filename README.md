@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adhish</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
 
-- 🌱 I’m currently learning **React and Microservies**
+- 🌱 I’m currently learning **React and Microservies, CI/CD**
 
 - 💬 Ask me about:- **DSA and JAVA**
 
